@@ -1,0 +1,1 @@
+using 4*M2(screw diameter)*3(Length)*3.5(outter diameter) screw inserts
