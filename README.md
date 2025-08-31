@@ -18,3 +18,4 @@ remember to change the module address,the macro define and the encrypted passwor
 
 # HW
 using folder production for PCB/SMT process,or handsolder by yourself.
+![photo_2025-08-31_11-42-20](https://github.com/user-attachments/assets/3c6aa11a-e135-4779-8811-b63279ef5f80)
