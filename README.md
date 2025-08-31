@@ -2,8 +2,8 @@
 use your finterprint to send password via virtual keyboard
 
 # ME
-Moduleholder: using screw pillar M2*4*1.5+2.5*1, M2*7 screws
-Passkey Case: using 4xM2(screw diameter)*3(Length)*3.5(outter diameter) screw inserts,M2*8 screws
+Moduleholder: using screw pillar M2\*4*1.5+2.5\*1, M2\*7 screws
+Passkey Case: using 4xM2(screw diameter)\*3(Length)\*3.5(outter diameter) screw inserts,M2\*8 screws
 
 # SW
 using project:passkey_tune_and_set to :
